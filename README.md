@@ -12,3 +12,5 @@ REFERENSI:
 	3. https://stackoverflow.com/questions/32751537/why-do-i-get-a-cannot-assign-error-when-setting-value-to-a-struct-as-a-value-i  
 	4. https://stackoverflow.com/questions/34383705/how-do-i-compare-strings-in-golang  
 	5. https://elearning.unsyiah.ac.id/pluginfile.php/389951/mod_resource/content/1/slide-inverted-indeks.pdf  
+
+__*Masih dalam tahap pengembangan__
